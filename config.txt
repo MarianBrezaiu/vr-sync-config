@@ -1,1 +1,1 @@
-ws://localhost:5001/vr-sync/deviceWS?type=link&id=vr
+ws://192.168.207.134:5001/vr-sync/deviceWS?type=link&id=vr
