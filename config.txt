@@ -1,1 +1,1 @@
-ws://192.168.1.249:3000/vr-sync/deviceWS?type=link
+ws://192.168.37.75:3000/vr-sync/deviceWS?type=link
